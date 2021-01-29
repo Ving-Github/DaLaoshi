@@ -2,7 +2,7 @@
 
 基于CoCos引擎打造的一款H5游戏
 
-在线玩：
+在线玩：www.yangli.love
 
 
 ### 本地启动
