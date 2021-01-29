@@ -1,6 +1,6 @@
 ## 合成大老师
 
-基于CoCos引擎打造的一款H5游戏
+基于CoCos引擎打造的一款H5游戏(欢迎Star或Fork）
 
 在线玩：www.yangli.love
 
