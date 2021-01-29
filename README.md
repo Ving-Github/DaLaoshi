@@ -32,7 +32,7 @@
 
 ### 致谢名单
 
-感谢 [@刘思哲](https://github.com/Ving-Github) @谢辉 @汪杰 @张志林 @李旭阳 @龚浩然 @江贤豪 @a_o提供素材和内测试玩 
+感谢 [@Ving](https://github.com/Ving-Github) @Vim @Var @志在山林 @新时代的神经症人格 @Voo @恐龙饼干 @a_o提供素材和内测试玩 
 
 感谢@合成大西瓜 提供的底层代码
 
